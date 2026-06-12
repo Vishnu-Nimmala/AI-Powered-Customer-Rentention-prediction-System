@@ -22,7 +22,7 @@ This system helps telecom organizations identify high-risk customers and take pr
 
 ### 🌐 Application Link
 
-https://
+https://https://ai-powered-customer-rentention.onrender.com
 
 ### 📂 GitHub Repository
 
