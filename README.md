@@ -265,19 +265,6 @@ AI_powered_churn_prediction_system/
 └── README.md
 ```
 
----
-
-## 📸 Project Screenshots
-
-### Dashboard
-
-<img src="static/images/dashboard.png" width="900">
-
-### Prediction Result
-
-<img src="static/images/result.png" width="900">
-
----
 
 ## 👩‍💻 Developed By
 
